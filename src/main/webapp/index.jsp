@@ -7,7 +7,7 @@
     <title>Blood Bank Management System</title>
     <style>
         * {
-            margin: 0;
+            margin: 2;
             padding: 0;
             box-sizing: border-box;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
